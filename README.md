@@ -1,4 +1,4 @@
-![Document - Google Chrome 2024-04-16 17-52-15](https://github.com/moeldnet/layout-and-function/assets/117515221/90aa0c5b-7532-49cb-a7fe-795e0db168ea)# layout-and-function
+# laout-and-function
 
 ## dark and light theme function
 Простая функция тёмной и светлой темы сайта, написанный на JS, CSS, HTML.
