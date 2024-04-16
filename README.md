@@ -23,4 +23,4 @@
 ### Основной функционал:
 Обычная страница
 
-![Dark mode Demo - Google Chrome 2024-04-16 17-40-16](https://github.com/moeldnet/layout-and-function/assets/117515221/f1366780-6d2a-47d1-a794-5105d244dee1)
+![Document - Google Chrome 2024-04-16 17-58-23](https://github.com/moeldnet/layout-and-function/assets/117515221/0d776625-8e7a-4de1-a7e4-6f067c2e2069)
